@@ -1,4 +1,6 @@
-#### Deployment:  <a href="https://sergius92739.github.io/ra-1.1-components-store_func/" target="_blank">Github Pages</a>
+[![Build status](https://ci.appveyor.com/api/projects/status/5m7671s4q9944a09/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-1-2-components-store-class/branch/master)
+
+#### Deployment:  <a href="" target="_blank">Github Pages</a>
 
 Страница интернет-магазина
 ===
